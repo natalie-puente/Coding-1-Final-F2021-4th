@@ -1,3 +1,45 @@
+.carousel-item{
+    text-align: center;
+}
+
+.firstroundedBox{
+    padding-top: 40px;
+}
+
+.aboutmeBox{
+    border: groove;
+    border-radius: 25px;
+    border-color: black;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.picture{
+    text-align: center;
+}
+
+.contactHeading{
+    font-size: 75px;
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+.contactmeBox{
+    border: groove;
+    border-radius: 25px;
+    border-color: black;
+    text-align: center;
+    padding-top: 30px;
+    width: 455px;
+    height: 400px;
+    margin-left: 335px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.background{
+    background-color:whitesmoke;
+}
+
 .footer{
     background-color: gainsboro;
     text-align: center;
