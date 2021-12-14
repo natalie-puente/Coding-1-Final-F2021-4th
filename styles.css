@@ -17,6 +17,13 @@
     padding-top: 160px;
 }
 
+.aboutMe{
+    font-size: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .aboutmeBox{
     border: groove;
     border-radius: 25px;
@@ -28,13 +35,14 @@
 
 .picture{
     text-align: center;
-    padding-top: 90px;
+    padding-top: 65px;
 }
 
 .contactHeading{
-    font-size: 75px;
+    font-size: 100px;
     font-family: "Times New Roman";
     text-align: center;
+    padding-top: 50px;
 }
 
 .contactmeBox{
@@ -45,12 +53,27 @@
     padding-top: 30px;
     width: 455px;
     height: 400px;
-    margin-left: 425px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 420px;
 }
 
 .background{
     background-color:whitesmoke;
+}
+
+h5{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3{
+    font-family:'Times New Roman', Times, serif;
 }
 
 .footer{
