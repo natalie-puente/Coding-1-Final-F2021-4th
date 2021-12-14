@@ -1,4 +1,15 @@
+.navbar{
+    background-color: rgba(153, 242, 245, 0.507);
+    font-size: 30px;
+    font-family: serif;
+}
+
 .carousel-item{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.content{
     text-align: center;
 }
 
@@ -12,6 +23,7 @@
     border-color: black;
     font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
 }
 
 .picture{
